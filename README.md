@@ -36,7 +36,7 @@ This project showcases SQL-based data analysis on an Employee Attrition dataset 
 
 # Project Structure
 
-- data/Employee.csv – Employee dataset used for analysis
+- data/Employee.csv – [Employee dataset used for analysis](https://github.com/AishwaryaLende/-Employee-Attrition-Analysis-MYSQL/blob/main/Employee_dataset.csv)
 - docs/Employee_Attrition_Analysis.pdf – Project report with SQL queries and insights
 - queries/employee_attrition_queries.sql – SQL queries used in the project
 - README.md – Project overview, insights, and learnings
